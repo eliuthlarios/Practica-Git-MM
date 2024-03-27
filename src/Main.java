@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Mi nombre es: " + Perrito.getName());
         Perrito.setName("Sussy");
         System.out.println("prueva Repositorio");
+        System.out.println("prueva Nueva rama feature/one");
+        System.out.println("prueva de cambios en rama nueva");
         System.out.println("Mi nombre es: " + Perrito.getName());
     }
 }
