@@ -7,7 +7,7 @@ public class Main {
 //System.out.println("Mi nombre es: " + Perrito.Name); //Como el miembro es privado solo puedo accede
         System.out.println("Mi nombre es: " + Perrito.getName());
         Perrito.setName("Sussy");
-
+        System.out.println("prueva Repositorio");
         System.out.println("Mi nombre es: " + Perrito.getName());
     }
 }
